@@ -2,7 +2,7 @@
 // Database configuration
 $host = "localhost";
 $username = "root";
-$password = "Lupapaul5409";
+$password = "password";
 $database_name = "fifa";
 
 // Get connection object and set the charset
