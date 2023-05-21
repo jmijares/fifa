@@ -2,7 +2,7 @@
 $connection = mysqli_connect (
     'localhost',
     'root',
-    'Lupapaul5409',
+    'password',
     'fifa'
 );
 
